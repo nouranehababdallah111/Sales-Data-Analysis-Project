@@ -22,7 +22,7 @@ The analysis focused on several key areas to understand the business's performan
 
 Below is a snapshot of the Excel dashboard created for this project, offering a quick overview of the key insights.
 
-![Excel Dashboard](Excel_Dashboard.png)
+![Excel Dashboard](Excel_Dashboard.jpg)
 ## Files Included
 
 * `EXCEL1.xlsx - Raw-data .csv`: The raw, unprocessed dataset.
