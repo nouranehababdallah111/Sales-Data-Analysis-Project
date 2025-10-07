@@ -25,8 +25,8 @@ Below is a snapshot of the Excel dashboard created for this project, offering a 
 ![Excel Dashboard](Excel_Dashboard.jpg.jpg)
 ## Files Included
 
-* `EXCEL1.xlsx - Raw-data .csv`: The raw, unprocessed dataset.
-* `EXCEL1.xlsx - clean.csv`: The cleaned and prepared dataset used for the analysis.
-* `Excel_Dashboard.png`: A screenshot of the final dashboard.
+* `raw_data.xlsx.xlsx`: The raw, unprocessed dataset.
+* `clean_data.xlsx.xlsx`: The cleaned and prepared dataset used for the analysis.
+* `Excel_Dashboard.jpg.jpg`: A screenshot of the final dashboard.
 
 This project demonstrates skills in data cleaning, analysis, and creating professional-grade dashboards, which are essential for any data-driven role.
